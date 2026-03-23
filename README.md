@@ -16,4 +16,8 @@ Salva il testo in un file chiamato install.sh.
 
 Dai i permessi: chmod +x install.sh.
 
-Eseguilo con: sudo ./install.sh.
+Eseguilo con sudo ./install.sh.
+-----------------------------------------------------------------------------------------------------------------
+OPPURE LANCIARE IL COMANDO 
+
+sudo wget https://raw.githubusercontent.com/laterceramiche/debian/refs/heads/main/install.sh && bash ./install.sh
